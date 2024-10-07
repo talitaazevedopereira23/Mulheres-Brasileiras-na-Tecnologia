@@ -1,0 +1,60 @@
+@font-face{
+    font-family:talita ;
+    src:url(./capitalis_typoasis/CapitalisTypOasis.ttf)
+}
+
+body{
+    font-family: "Manrope", sans-serif;
+    margin: 3px;
+    background-color: rgba(227, 186, 145, 0.446);
+    padding:1%;
+}
+header{
+    background-color:rgba(0, 0, 0, 0.216) ;
+    text-align: start;
+    padding: 10px  ;
+
+}
+header h1{
+    margin: 5px;
+    font-family: talita;
+    color: rgb(73, 69, 62);
+   
+}
+h2{
+    font-family: "Playfair Display", serif;
+    color: rgb(255, 1, 1);
+
+
+
+}
+
+h3{
+    font-family: "Playfair Display", serif;
+    color: rgb(93, 44, 3);
+}
+
+nav ul li{
+    margin:  50px; 
+    display: inline;
+}
+main{
+    margin: 20px;
+    margin: auto;
+}
+nav ul li a{
+    color: rgba(2, 1, 1, 0.515);
+    text-decoration: none;
+}
+form button{
+    margin: 20px;
+    background-color: rgba(77, 43, 4, 0.298);
+    padding: 5px;
+    border: none;
+    color: rgb(0, 0, 0);
+   
+}
+img{
+    width: 350px;
+    padding-left: 30%;
+}
